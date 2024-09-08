@@ -14,3 +14,5 @@
 * [R3](https://github.com/Cysharp/R3)
 * [UniTask](https://github.com/Cysharp/UniTask)
 * [MessagePack](https://msgpack.org/ja.html)
+# 紹介動画
+[Youtube] (https://youtu.be/VNRG10hEz4)
