@@ -15,4 +15,4 @@
 * [UniTask](https://github.com/Cysharp/UniTask)
 * [MessagePack](https://msgpack.org/ja.html)
 # 紹介動画
-[Youtube] (https://youtu.be/VNRG10hEz4)
+[Youtube] (https://youtu.be/Y7qXTqniBDo?si=XEFR2QgxlKZk1hFU）
